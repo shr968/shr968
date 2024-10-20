@@ -8,8 +8,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=shr968&theme=dark&show_icons=true" align="left" width="47%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shr968&theme=dark&layout=compact" align="left" width="47%"><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shr968&theme=dark&layout=compact" align="left" width="47%">
 
-### Business:
+
 - :paperclip: [My Resume/CV](https://drive.google.com/file/d/1yeB_u_QtIMSKUkMi_I1C5aSnsug4Tee8/view?usp=drive_link)
 - :email: shreyanayakb26@gmail.com
