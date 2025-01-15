@@ -8,7 +8,7 @@
 
 - :paperclip: [My Resume/CV](https://docs.google.com/document/d/14A8_JkEevF43YC_9XYyImKOu2B-CYQFWuvFPoS3Yl5E/edit?usp=sharing)
 - :email: shreyanayakb26@gmail.com
-- :paperclip: [My Portfolio](https://portfolio-vwc4.vercel.app/)
+  
 
 <img src="https://github-readme-stats.vercel.app/api?username=shr968&theme=dark&show_icons=true" align="left" width="47%">
 
