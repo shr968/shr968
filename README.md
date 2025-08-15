@@ -6,7 +6,6 @@
 [![Mail Badge](https://img.shields.io/badge/-@Shreya-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/shreya.nayak_026/) 
 [![Mail Badge](https://img.shields.io/badge/-Shreya-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:shreyanayakb26@gmail.com)
 
-- :paperclip: [My Resume/CV](https://docs.google.com/document/d/14A8_JkEevF43YC_9XYyImKOu2B-CYQFWuvFPoS3Yl5E/edit?usp=sharing)
 - :email: shreyanayakb26@gmail.com
   
 
